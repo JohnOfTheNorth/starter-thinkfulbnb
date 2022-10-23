@@ -202,7 +202,7 @@ footer p {
     justify-content: space-around;
   }
   .col-img {
-    flex: 1 0 calc(35% - 20px);
+    flex: 1 0 calc(35%- 20px);
     margin: 5px;
   }
   .padding {
@@ -216,11 +216,12 @@ footer p {
   .form-container {
     display: flex;
     justify-content: space-between;
+    margin-left: 30px;
   }
   .space-between {
     display: flex;
     flex-direction: column;
-    margin-right: 40px;
+    margin-left: 25px;
   }
   .button-container {
     display: flex;
